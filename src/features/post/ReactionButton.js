@@ -25,7 +25,6 @@ const ReactionButton = ({post}) => {
             </button>
         )
     })
-
     return <div>{reactionButtons}</div>
 }
 
